@@ -1,0 +1,963 @@
+2016-08-23 17:03:56 INFO   - **************************Log Collector started****************************
+2016-08-23 17:03:56 INFO   - waitting for starting the task.....
+2016-08-23 17:03:56 INFO   - copying task started.....
+2016-08-23 17:03:56 INFO   - Total Copied Files:- 0 Files
+2016-08-23 17:03:56 INFO   - Total Failled Files in Copying :- 0 Files
+2016-08-23 17:03:56 INFO   - Total Deleted Files:- 0 Files
+2016-08-23 17:03:56 INFO   - Total Failled Files in Deletion:- 0 Files
+2016-08-23 17:03:56 INFO   - Collecting log files task completed
+
+2016-08-23 17:04:42 INFO   - **************************Log Collector started****************************
+2016-08-23 17:04:42 INFO   - waitting for starting the task.....
+2016-08-23 17:04:42 INFO   - copying task started.....
+2016-08-23 17:04:43 INFO   - 
+	***************************************************
+	Files Copied
+	***************************************************
+	E:\Dev\Gemini\LogCollector\cuts\LogCollector-0.0.1-SNAPSHOT-jar-with-dependencies.jar
+	
+2016-08-23 17:04:43 INFO   - 
+	***************************************************
+	Files Deleted
+	***************************************************
+	E:\Dev\Gemini\LogCollector\cuts\LogCollector-0.0.1-SNAPSHOT-jar-with-dependencies.jar
+	E:\Dev\Gemini\LogCollector\cuts\log-collector.properties
+	
+2016-08-23 17:04:43 INFO   - Total Copied Files:- 1 Files
+2016-08-23 17:04:43 INFO   - Total Failled Files in Copying :- 0 Files
+2016-08-23 17:04:43 INFO   - Total Deleted Files:- 2 Files
+2016-08-23 17:04:43 INFO   - Total Failled Files in Deletion:- 0 Files
+2016-08-23 17:04:43 INFO   - Collecting log files task completed
+
+2016-09-20 13:41:33 INFO   - **************************Log Collector started****************************
+2016-09-20 13:41:33 INFO   - waitting for starting the task.....
+2016-09-20 13:41:33 INFO   - copying task started.....
+2016-09-20 13:41:33 INFO   - Total Copied Files:- 0 Files
+2016-09-20 13:41:33 INFO   - Total Failled Files in Copying :- 0 Files
+2016-09-20 13:41:33 INFO   - Total Deleted Files:- 0 Files
+2016-09-20 13:41:33 INFO   - Total Failled Files in Deletion:- 0 Files
+2016-09-20 13:41:33 INFO   - Collecting log files task completed
+
+2016-09-20 13:43:04 INFO   - **************************Log Collector started****************************
+2016-09-20 13:43:04 INFO   - waitting for starting the task.....
+2016-09-20 13:43:04 INFO   - copying task started.....
+2016-09-20 13:43:04 INFO   - Total Copied Files:- 0 Files
+2016-09-20 13:43:04 INFO   - Total Failled Files in Copying :- 0 Files
+2016-09-20 13:43:04 INFO   - Total Deleted Files:- 0 Files
+2016-09-20 13:43:04 INFO   - Total Failled Files in Deletion:- 0 Files
+2016-09-20 13:43:04 INFO   - Collecting log files task completed
+
+2016-09-20 13:44:58 INFO   - **************************Log Collector started****************************
+2016-09-20 13:44:58 INFO   - waitting for starting the task.....
+2016-09-20 13:44:58 INFO   - copying task started.....
+2016-09-20 13:44:58 INFO   - Total Copied Files:- 0 Files
+2016-09-20 13:44:58 INFO   - Total Failled Files in Copying :- 0 Files
+2016-09-20 13:44:58 INFO   - Total Deleted Files:- 0 Files
+2016-09-20 13:44:58 INFO   - Total Failled Files in Deletion:- 0 Files
+2016-09-20 13:44:58 INFO   - Collecting log files task completed
+
+2016-09-20 13:48:48 INFO   - **************************Log Collector started****************************
+2016-09-20 13:48:51 INFO   - waitting for starting the task.....
+2016-09-20 13:49:12 INFO   - copying task started.....
+2016-09-20 13:55:35 INFO   - **************************Log Collector started****************************
+2016-09-20 13:55:35 INFO   - waitting for starting the task.....
+2016-09-20 13:55:35 INFO   - copying task started.....
+2016-09-20 13:56:54 INFO   - 
+	***************************************************
+	Files Copied
+	***************************************************
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\Psychiatry\CUTS_19092016_153629.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\IX3 Referral\CUTS_20192016_080241.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\Birth\CUTS_14092016.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\Theatre Management\2016-09-15.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\Care Link\2016-09-12_163201-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\CCM\CCM1.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\Messenger\Messenger01.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\Connection Overview\CUTS_19092016_112112.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\Psychiatry\CUTS_19092016_110100.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\Unit Overview\Emergency12092016.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\Order Management\OM-v2.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\CCM\CUTS_2016-09-14.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\Theatre Management\CUTS_2016-09-14.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\Care Documentation\2016-09-15-CD.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\Order Management\2016-09-12_155502-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\CCP\CUTS_20160914.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\Resource Planing\2016-09-08_143238-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\Care Link\2016-09-13_141038-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\Attention Signal\att2-v2.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\Order Management\2016-09-14_151125-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\CCP\CUTS_20160913(1).cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\IX3 Referral\CUTS_19092016.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\Messenger\Messenger02.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\IX3 Referral\Cuts_Referral_Pulasthi_1409.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\Attention Signal\att-v2.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\Order Management\2016-09-15_082901-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\CCP\CUTS_20160913.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\Psychiatry\CUTS_19092016_112112.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\Psychiatry\CUTS_19092016_155038.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\Care Documentation\CD.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\Connection Overview\CUTS_19092016_110100.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\Order Management\2016-09-13_141038-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\Attention Signal\att3-v2.cuts
+	
+2016-09-20 13:56:54 ERROR  - 
+	***************************************************
+	Error copying files
+	***************************************************
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\Psychiatry\CUTS_19092016_153629.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\IX3 Referral\CUTS_20192016_080241.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\Birth\CUTS_14092016.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\Theatre Management\2016-09-15.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\Care Link\2016-09-12_163201-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\CCM\CCM1.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\Messenger\Messenger01.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\Connection Overview\CUTS_19092016_112112.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\Psychiatry\CUTS_19092016_110100.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\Unit Overview\Emergency12092016.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\Order Management\OM-v2.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\CCM\CUTS_2016-09-14.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\Theatre Management\CUTS_2016-09-14.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\Care Documentation\2016-09-15-CD.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\Order Management\2016-09-12_155502-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\CCP\CUTS_20160914.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\Resource Planing\2016-09-08_143238-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\Care Link\2016-09-13_141038-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\Attention Signal\att2-v2.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\Order Management\2016-09-14_151125-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\CCP\CUTS_20160913(1).cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\IX3 Referral\CUTS_19092016.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\Messenger\Messenger02.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\IX3 Referral\Cuts_Referral_Pulasthi_1409.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\Attention Signal\att-v2.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\Order Management\2016-09-15_082901-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\CCP\CUTS_20160913.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\Psychiatry\CUTS_19092016_112112.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\Psychiatry\CUTS_19092016_155038.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\Care Documentation\CD.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\Connection Overview\CUTS_19092016_110100.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\Order Management\2016-09-13_141038-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\Attention Signal\att3-v2.cuts
+	
+2016-09-20 13:56:54 INFO   - Total Copied Files:- 33 Files
+2016-09-20 13:56:54 INFO   - Total Failled Files in Copying :- 33 Files
+2016-09-20 13:56:54 INFO   - Total Deleted Files:- 0 Files
+2016-09-20 13:56:54 INFO   - Total Failled Files in Deletion:- 0 Files
+2016-09-20 13:56:54 INFO   - Collecting log files task completed
+
+2016-09-20 13:57:26 INFO   - **************************Log Collector started****************************
+2016-09-20 13:57:26 INFO   - waitting for starting the task.....
+2016-09-20 13:57:26 INFO   - copying task started.....
+2016-09-20 13:57:26 INFO   - 
+	***************************************************
+	Files Copied
+	***************************************************
+	E:\Resources\LogCollector\R8.1.1 07\2016-08-19 - [R8.1.1 07] Selective Regression I\CCM\2016-09-14_105401-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\Psychiatry\CUTS_19092016_153629.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-08-19 - [R8.1.1 07] Selective Regression I\Care Documentation\CUTS2016822.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-08-19 - [R8.1.1 07] Selective Regression I\Care Documentation\CUTS2016822(3).cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-08-19 - [R8.1.1 07] Selective Regression I\IX3 Overviews\2016-08-22.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-08-19 - [R8.1.1 07] Selective Regression I\CCM\2016-08-22_102941-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-08-19 - [R8.1.1 07] Selective Regression I\Order Management\OM-cuts1.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\Messenger\Messenger01.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-08-19 - [R8.1.1 07] Selective Regression I\Medical Record Table\220816_1716.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\Psychiatry\CUTS_19092016_110100.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\Unit Overview\Emergency12092016.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\Order Management\OM-v2.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-08-19 - [R8.1.1 07] Selective Regression I\Care Administration\CACUTS23-08.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\CCM\CUTS_2016-09-14.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\Theatre Management\CUTS_2016-09-14.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\Care Documentation\2016-09-15-CD.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-08-19 - [R8.1.1 07] Selective Regression I\Messenger\2016-08-23_083814-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-08-19 - [R8.1.1 07] Selective Regression I\Order Management\OM-cuts3.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-08-19 - [R8.1.1 07] Selective Regression I\Psychiatry\2016-08-23_075846-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\CCP\CUTS_20160914.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\Resource Planing\2016-09-08_143238-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-08-19 - [R8.1.1 07] Selective Regression I\Care Administration\CACUTS22-08.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\CCP\CUTS_20160913(1).cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-08-19 - [R8.1.1 07] Selective Regression I\CCM\2016-09-14_170442-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\IX3 Referral\Cuts_Referral_Pulasthi_1409.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-08-19 - [R8.1.1 07] Selective Regression I\IX3 Referral\2016-08-22_153456-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-08-19 - [R8.1.1 07] Selective Regression I\Care Documentation\CUTS20160823.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-08-19 - [R8.1.1 07] Selective Regression I\IX3 Referral\2016-08-22_100202-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-08-19 - [R8.1.1 07] Selective Regression I\Psychiatry\2016-08-22_153456-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\Order Management\2016-09-15_082901-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-08-19 - [R8.1.1 07] Selective Regression I\Psychiatry\2016-08-23_092414-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-08-19 - [R8.1.1 07] Selective Regression I\Theatre Management\2016-08-22-TM.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-08-19 - [R8.1.1 07] Selective Regression I\Unit Overview\cached-recording.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-08-19 - [R8.1.1 07] Selective Regression I\IX3 Referral\2016-08-22_134932-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-08-19 - [R8.1.1 07] Selective Regression I\Psychiatry\2016-08-22_142112-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-08-19 - [R8.1.1 07] Selective Regression I\IX3 Referral\2016-08-22_130534-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\Care Documentation\CD.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\Order Management\2016-09-13_141038-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\Attention Signal\att3-v2.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-08-19 - [R8.1.1 07] Selective Regression I\Theatre Management\2016-08-22_TM.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\Attention Signal\AS1.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\IX3 Referral\CUTS_20192016_080241.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-08-19 - [R8.1.1 07] Selective Regression I\Order Management\OM-Cuts2.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\Birth\CUTS_14092016.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-08-19 - [R8.1.1 07] Selective Regression I\Unit Overview\2016-08-22_170720-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\Theatre Management\2016-09-15.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-08-19 - [R8.1.1 07] Selective Regression I\Psychiatry\2016-08-23_085645-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\Care Link\2016-09-12_163201-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\CCM\CCM1.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\Connection Overview\CUTS_19092016_112112.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-08-19 - [R8.1.1 07] Selective Regression I\Order Management\2016-09-19_130822-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-08-19 - [R8.1.1 07] Selective Regression I\Order Management\OM-cuts4.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-08-19 - [R8.1.1 07] Selective Regression I\IX3 Referral\2016-08-22_142112-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-08-19 - [R8.1.1 07] Selective Regression I\Care Documentation\CUTS2016822(2).cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\Order Management\2016-09-12_155502-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\Care Link\2016-09-13_141038-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\Attention Signal\att2-v2.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\Order Management\2016-09-14_151125-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\IX3 Referral\CUTS_19092016.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\Messenger\Messenger02.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-08-19 - [R8.1.1 07] Selective Regression I\Resource Planing\RP.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-08-19 - [R8.1.1 07] Selective Regression I\Order Management\2016-09-19_171609-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-08-19 - [R8.1.1 07] Selective Regression I\Unit Overview\2016-08-22_095646-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-08-19 - [R8.1.1 07] Selective Regression I\Attention Signal\2016-08-22_102941-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\Attention Signal\att-v2.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-08-19 - [R8.1.1 07] Selective Regression I\IX3 Referral\2016-08-22_123928-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-08-19 - [R8.1.1 07] Selective Regression I\Birth\Birth.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-08-19 - [R8.1.1 07] Selective Regression I\Care Documentation\CUTS2016822(1).cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\CCP\CUTS_20160913.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-08-19 - [R8.1.1 07] Selective Regression I\IX3 Referral\2016-08-22_141009-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-08-19 - [R8.1.1 07] Selective Regression I\CDE\cuts-framework.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\Psychiatry\CUTS_19092016_112112.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\Psychiatry\CUTS_19092016_155038.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\Connection Overview\CUTS_19092016_110100.cuts
+	
+2016-09-20 13:57:26 ERROR  - 
+	***************************************************
+	Error copying files
+	***************************************************
+	E:\Resources\LogCollector\R8.1.1 07\2016-08-19 - [R8.1.1 07] Selective Regression I\CCM\2016-09-14_105401-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\Psychiatry\CUTS_19092016_153629.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-08-19 - [R8.1.1 07] Selective Regression I\Care Documentation\CUTS2016822.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-08-19 - [R8.1.1 07] Selective Regression I\Care Documentation\CUTS2016822(3).cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-08-19 - [R8.1.1 07] Selective Regression I\IX3 Overviews\2016-08-22.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-08-19 - [R8.1.1 07] Selective Regression I\CCM\2016-08-22_102941-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-08-19 - [R8.1.1 07] Selective Regression I\Order Management\OM-cuts1.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\Messenger\Messenger01.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-08-19 - [R8.1.1 07] Selective Regression I\Medical Record Table\220816_1716.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\Psychiatry\CUTS_19092016_110100.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\Unit Overview\Emergency12092016.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\Order Management\OM-v2.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-08-19 - [R8.1.1 07] Selective Regression I\Care Administration\CACUTS23-08.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\CCM\CUTS_2016-09-14.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\Theatre Management\CUTS_2016-09-14.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\Care Documentation\2016-09-15-CD.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-08-19 - [R8.1.1 07] Selective Regression I\Messenger\2016-08-23_083814-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-08-19 - [R8.1.1 07] Selective Regression I\Order Management\OM-cuts3.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-08-19 - [R8.1.1 07] Selective Regression I\Psychiatry\2016-08-23_075846-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\CCP\CUTS_20160914.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\Resource Planing\2016-09-08_143238-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-08-19 - [R8.1.1 07] Selective Regression I\Care Administration\CACUTS22-08.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\CCP\CUTS_20160913(1).cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-08-19 - [R8.1.1 07] Selective Regression I\CCM\2016-09-14_170442-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\IX3 Referral\Cuts_Referral_Pulasthi_1409.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-08-19 - [R8.1.1 07] Selective Regression I\IX3 Referral\2016-08-22_153456-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-08-19 - [R8.1.1 07] Selective Regression I\Care Documentation\CUTS20160823.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-08-19 - [R8.1.1 07] Selective Regression I\IX3 Referral\2016-08-22_100202-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-08-19 - [R8.1.1 07] Selective Regression I\Psychiatry\2016-08-22_153456-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\Order Management\2016-09-15_082901-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-08-19 - [R8.1.1 07] Selective Regression I\Psychiatry\2016-08-23_092414-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-08-19 - [R8.1.1 07] Selective Regression I\Theatre Management\2016-08-22-TM.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-08-19 - [R8.1.1 07] Selective Regression I\Unit Overview\cached-recording.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-08-19 - [R8.1.1 07] Selective Regression I\IX3 Referral\2016-08-22_134932-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-08-19 - [R8.1.1 07] Selective Regression I\Psychiatry\2016-08-22_142112-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-08-19 - [R8.1.1 07] Selective Regression I\IX3 Referral\2016-08-22_130534-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\Care Documentation\CD.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\Order Management\2016-09-13_141038-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\Attention Signal\att3-v2.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-08-19 - [R8.1.1 07] Selective Regression I\Theatre Management\2016-08-22_TM.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\Attention Signal\AS1.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\IX3 Referral\CUTS_20192016_080241.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-08-19 - [R8.1.1 07] Selective Regression I\Order Management\OM-Cuts2.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\Birth\CUTS_14092016.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-08-19 - [R8.1.1 07] Selective Regression I\Unit Overview\2016-08-22_170720-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\Theatre Management\2016-09-15.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-08-19 - [R8.1.1 07] Selective Regression I\Psychiatry\2016-08-23_085645-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\Care Link\2016-09-12_163201-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\CCM\CCM1.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\Connection Overview\CUTS_19092016_112112.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-08-19 - [R8.1.1 07] Selective Regression I\Order Management\2016-09-19_130822-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-08-19 - [R8.1.1 07] Selective Regression I\Order Management\OM-cuts4.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-08-19 - [R8.1.1 07] Selective Regression I\IX3 Referral\2016-08-22_142112-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-08-19 - [R8.1.1 07] Selective Regression I\Care Documentation\CUTS2016822(2).cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\Order Management\2016-09-12_155502-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\Care Link\2016-09-13_141038-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\Attention Signal\att2-v2.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\Order Management\2016-09-14_151125-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\IX3 Referral\CUTS_19092016.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\Messenger\Messenger02.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-08-19 - [R8.1.1 07] Selective Regression I\Resource Planing\RP.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-08-19 - [R8.1.1 07] Selective Regression I\Order Management\2016-09-19_171609-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-08-19 - [R8.1.1 07] Selective Regression I\Unit Overview\2016-08-22_095646-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-08-19 - [R8.1.1 07] Selective Regression I\Attention Signal\2016-08-22_102941-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\Attention Signal\att-v2.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-08-19 - [R8.1.1 07] Selective Regression I\IX3 Referral\2016-08-22_123928-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-08-19 - [R8.1.1 07] Selective Regression I\Birth\Birth.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-08-19 - [R8.1.1 07] Selective Regression I\Care Documentation\CUTS2016822(1).cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\CCP\CUTS_20160913.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-08-19 - [R8.1.1 07] Selective Regression I\IX3 Referral\2016-08-22_141009-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-08-19 - [R8.1.1 07] Selective Regression I\CDE\cuts-framework.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\Psychiatry\CUTS_19092016_112112.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\Psychiatry\CUTS_19092016_155038.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\Connection Overview\CUTS_19092016_110100.cuts
+	
+2016-09-20 13:57:26 INFO   - Total Copied Files:- 74 Files
+2016-09-20 13:57:26 INFO   - Total Failled Files in Copying :- 74 Files
+2016-09-20 13:57:26 INFO   - Total Deleted Files:- 0 Files
+2016-09-20 13:57:26 INFO   - Total Failled Files in Deletion:- 0 Files
+2016-09-20 13:57:26 INFO   - Collecting log files task completed
+
+2016-09-20 13:59:44 INFO   - **************************Log Collector started****************************
+2016-09-20 13:59:44 INFO   - waitting for starting the task.....
+2016-09-20 13:59:44 INFO   - copying task started.....
+2016-09-20 14:03:09 INFO   - **************************Log Collector started****************************
+2016-09-20 14:03:09 INFO   - waitting for starting the task.....
+2016-09-20 14:03:09 INFO   - copying task started.....
+2016-09-20 14:03:09 INFO   - 
+	***************************************************
+	Files Copied
+	***************************************************
+	E:\Resources\LogCollector\R8.1.1 07\x2\IX3 Referral\2016-08-22_130534-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x2\Unit Overview\2016-08-22_095646-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x1\CCM\CUTS_2016-09-14.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x2\Order Management\OM-cuts3.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x1\Psychiatry\CUTS_19092016_110100.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x2\IX3 Referral\2016-08-22_134932-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x1\Order Management\2016-09-12_155502-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x1\Unit Overview\Emergency12092016.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x2\Resource Planing\RP.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x2\Care Documentation\CUTS20160823.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x1\CCP\CUTS_20160913(1).cuts
+	E:\Resources\LogCollector\R8.1.1 07\x2\CCM\2016-08-22_102941-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x1\Connection Overview\CUTS_19092016_112112.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x1\Messenger\Messenger01.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x2\Order Management\2016-09-19_130822-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x2\Care Documentation\CUTS2016822.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x1\CCP\CUTS_20160914.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x1\Psychiatry\CUTS_19092016_153629.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x2\Unit Overview\cached-recording.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x1\Care Documentation\2016-09-15-CD.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x2\Unit Overview\2016-08-22_170720-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x2\IX3 Referral\2016-08-22_142112-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x2\Order Management\OM-Cuts2.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x1\IX3 Referral\CUTS_20192016_080241.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x1\Connection Overview\CUTS_19092016_110100.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x2\Birth\Birth.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x1\Care Link\2016-09-13_141038-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x2\Care Administration\CACUTS23-08.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x2\CCM\2016-09-14_105401-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x1\Messenger\Messenger02.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x2\Medical Record Table\220816_1716.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x1\Psychiatry\CUTS_19092016_112112.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x1\Attention Signal\att2-v2.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x2\IX3 Referral\2016-08-22_100202-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x1\Psychiatry\CUTS_19092016_155038.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x2\Care Documentation\CUTS2016822(2).cuts
+	E:\Resources\LogCollector\R8.1.1 07\x2\IX3 Referral\2016-08-22_153456-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x2\Psychiatry\2016-08-23_092414-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x2\Psychiatry\2016-08-23_085645-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x1\Attention Signal\att-v2.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x1\Attention Signal\att3-v2.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x1\Order Management\2016-09-14_151125-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x1\Resource Planing\2016-09-08_143238-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x1\Care Link\2016-09-12_163201-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x1\Theatre Management\2016-09-15.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x2\Psychiatry\2016-08-23_075846-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x1\Birth\CUTS_14092016.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x2\Care Documentation\CUTS2016822(1).cuts
+	E:\Resources\LogCollector\R8.1.1 07\x2\Attention Signal\2016-08-22_102941-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x2\Care Administration\CACUTS22-08.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x1\Order Management\2016-09-13_141038-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x2\Messenger\2016-08-23_083814-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x2\Order Management\2016-09-19_171609-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x2\Psychiatry\2016-08-22_153456-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x2\CDE\cuts-framework.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x1\IX3 Referral\CUTS_19092016.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x2\Care Documentation\CUTS2016822(3).cuts
+	E:\Resources\LogCollector\R8.1.1 07\x1\IX3 Referral\Cuts_Referral_Pulasthi_1409.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x1\CCP\CUTS_20160913.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x2\IX3 Overviews\2016-08-22.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x1\Order Management\2016-09-15_082901-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x1\CCM\CCM1.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x1\Theatre Management\CUTS_2016-09-14.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x2\IX3 Referral\2016-08-22_141009-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x1\Attention Signal\AS1.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x1\Care Documentation\CD.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x2\Psychiatry\2016-08-22_142112-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x2\Order Management\OM-cuts4.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x2\Order Management\OM-cuts1.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x2\Theatre Management\2016-08-22_TM.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x2\CCM\2016-09-14_170442-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x2\IX3 Referral\2016-08-22_123928-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x1\Order Management\OM-v2.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x2\Theatre Management\2016-08-22-TM.cuts
+	
+2016-09-20 14:03:09 ERROR  - 
+	***************************************************
+	Error copying files
+	***************************************************
+	E:\Resources\LogCollector\R8.1.1 07\x2\IX3 Referral\2016-08-22_130534-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x2\Unit Overview\2016-08-22_095646-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x1\CCM\CUTS_2016-09-14.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x2\Order Management\OM-cuts3.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x1\Psychiatry\CUTS_19092016_110100.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x2\IX3 Referral\2016-08-22_134932-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x1\Order Management\2016-09-12_155502-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x1\Unit Overview\Emergency12092016.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x2\Resource Planing\RP.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x2\Care Documentation\CUTS20160823.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x1\CCP\CUTS_20160913(1).cuts
+	E:\Resources\LogCollector\R8.1.1 07\x2\CCM\2016-08-22_102941-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x1\Connection Overview\CUTS_19092016_112112.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x1\Messenger\Messenger01.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x2\Order Management\2016-09-19_130822-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x2\Care Documentation\CUTS2016822.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x1\CCP\CUTS_20160914.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x1\Psychiatry\CUTS_19092016_153629.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x2\Unit Overview\cached-recording.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x1\Care Documentation\2016-09-15-CD.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x2\Unit Overview\2016-08-22_170720-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x2\IX3 Referral\2016-08-22_142112-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x2\Order Management\OM-Cuts2.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x1\IX3 Referral\CUTS_20192016_080241.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x1\Connection Overview\CUTS_19092016_110100.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x2\Birth\Birth.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x1\Care Link\2016-09-13_141038-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x2\Care Administration\CACUTS23-08.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x2\CCM\2016-09-14_105401-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x1\Messenger\Messenger02.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x2\Medical Record Table\220816_1716.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x1\Psychiatry\CUTS_19092016_112112.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x1\Attention Signal\att2-v2.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x2\IX3 Referral\2016-08-22_100202-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x1\Psychiatry\CUTS_19092016_155038.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x2\Care Documentation\CUTS2016822(2).cuts
+	E:\Resources\LogCollector\R8.1.1 07\x2\IX3 Referral\2016-08-22_153456-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x2\Psychiatry\2016-08-23_092414-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x2\Psychiatry\2016-08-23_085645-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x1\Attention Signal\att-v2.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x1\Attention Signal\att3-v2.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x1\Order Management\2016-09-14_151125-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x1\Resource Planing\2016-09-08_143238-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x1\Care Link\2016-09-12_163201-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x1\Theatre Management\2016-09-15.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x2\Psychiatry\2016-08-23_075846-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x1\Birth\CUTS_14092016.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x2\Care Documentation\CUTS2016822(1).cuts
+	E:\Resources\LogCollector\R8.1.1 07\x2\Attention Signal\2016-08-22_102941-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x2\Care Administration\CACUTS22-08.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x1\Order Management\2016-09-13_141038-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x2\Messenger\2016-08-23_083814-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x2\Order Management\2016-09-19_171609-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x2\Psychiatry\2016-08-22_153456-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x2\CDE\cuts-framework.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x1\IX3 Referral\CUTS_19092016.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x2\Care Documentation\CUTS2016822(3).cuts
+	E:\Resources\LogCollector\R8.1.1 07\x1\IX3 Referral\Cuts_Referral_Pulasthi_1409.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x1\CCP\CUTS_20160913.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x2\IX3 Overviews\2016-08-22.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x1\Order Management\2016-09-15_082901-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x1\CCM\CCM1.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x1\Theatre Management\CUTS_2016-09-14.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x2\IX3 Referral\2016-08-22_141009-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x1\Attention Signal\AS1.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x1\Care Documentation\CD.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x2\Psychiatry\2016-08-22_142112-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x2\Order Management\OM-cuts4.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x2\Order Management\OM-cuts1.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x2\Theatre Management\2016-08-22_TM.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x2\CCM\2016-09-14_170442-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x2\IX3 Referral\2016-08-22_123928-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x1\Order Management\OM-v2.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x2\Theatre Management\2016-08-22-TM.cuts
+	
+2016-09-20 14:03:09 INFO   - Total Copied Files:- 74 Files
+2016-09-20 14:03:09 INFO   - Total Failled Files in Copying :- 74 Files
+2016-09-20 14:03:09 INFO   - Total Deleted Files:- 0 Files
+2016-09-20 14:03:09 INFO   - Total Failled Files in Deletion:- 0 Files
+2016-09-20 14:03:09 INFO   - Collecting log files task completed
+
+2016-09-20 14:03:20 INFO   - **************************Log Collector started****************************
+2016-09-20 14:03:20 INFO   - waitting for starting the task.....
+2016-09-20 14:03:20 INFO   - copying task started.....
+2016-09-20 14:05:59 INFO   - **************************Log Collector started****************************
+2016-09-20 14:05:59 INFO   - waitting for starting the task.....
+2016-09-20 14:05:59 INFO   - copying task started.....
+2016-09-20 14:05:59 INFO   - 
+	***************************************************
+	Files Copied
+	***************************************************
+	E:\Resources\LogCollector\R8.1.1 07\x2\IX3 Referral\2016-08-22_130534-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x2\Unit Overview\2016-08-22_095646-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x1\CCM\CUTS_2016-09-14.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x2\Order Management\OM-cuts3.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x1\Psychiatry\CUTS_19092016_110100.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x2\IX3 Referral\2016-08-22_134932-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x1\Order Management\2016-09-12_155502-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x1\Unit Overview\Emergency12092016.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x2\Resource Planing\RP.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x2\Care Documentation\CUTS20160823.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x1\CCP\CUTS_20160913(1).cuts
+	E:\Resources\LogCollector\R8.1.1 07\x2\CCM\2016-08-22_102941-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x1\Connection Overview\CUTS_19092016_112112.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x1\Messenger\Messenger01.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x2\Order Management\2016-09-19_130822-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x2\Care Documentation\CUTS2016822.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x1\CCP\CUTS_20160914.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x1\Psychiatry\CUTS_19092016_153629.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x2\Unit Overview\cached-recording.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x1\Care Documentation\2016-09-15-CD.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x2\Unit Overview\2016-08-22_170720-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x2\IX3 Referral\2016-08-22_142112-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x2\Order Management\OM-Cuts2.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x1\IX3 Referral\CUTS_20192016_080241.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x1\Connection Overview\CUTS_19092016_110100.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x2\Birth\Birth.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x1\Care Link\2016-09-13_141038-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x2\Care Administration\CACUTS23-08.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x2\CCM\2016-09-14_105401-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x1\Messenger\Messenger02.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x2\Medical Record Table\220816_1716.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x1\Psychiatry\CUTS_19092016_112112.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x1\Attention Signal\att2-v2.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x2\IX3 Referral\2016-08-22_100202-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x1\Psychiatry\CUTS_19092016_155038.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x2\Care Documentation\CUTS2016822(2).cuts
+	E:\Resources\LogCollector\R8.1.1 07\x2\IX3 Referral\2016-08-22_153456-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x2\Psychiatry\2016-08-23_092414-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x2\Psychiatry\2016-08-23_085645-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x1\Attention Signal\att-v2.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x1\Attention Signal\att3-v2.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x1\Order Management\2016-09-14_151125-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x1\Resource Planing\2016-09-08_143238-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x1\Care Link\2016-09-12_163201-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x1\Theatre Management\2016-09-15.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x2\Psychiatry\2016-08-23_075846-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x1\Birth\CUTS_14092016.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x2\Care Documentation\CUTS2016822(1).cuts
+	E:\Resources\LogCollector\R8.1.1 07\x2\Attention Signal\2016-08-22_102941-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x2\Care Administration\CACUTS22-08.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x1\Order Management\2016-09-13_141038-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x2\Messenger\2016-08-23_083814-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x2\Order Management\2016-09-19_171609-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x2\Psychiatry\2016-08-22_153456-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x2\CDE\cuts-framework.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x1\IX3 Referral\CUTS_19092016.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x2\Care Documentation\CUTS2016822(3).cuts
+	E:\Resources\LogCollector\R8.1.1 07\x1\IX3 Referral\Cuts_Referral_Pulasthi_1409.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x1\CCP\CUTS_20160913.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x2\IX3 Overviews\2016-08-22.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x1\Order Management\2016-09-15_082901-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x1\CCM\CCM1.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x1\Theatre Management\CUTS_2016-09-14.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x2\IX3 Referral\2016-08-22_141009-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x1\Attention Signal\AS1.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x1\Care Documentation\CD.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x2\Psychiatry\2016-08-22_142112-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x2\Order Management\OM-cuts4.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x2\Order Management\OM-cuts1.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x2\Theatre Management\2016-08-22_TM.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x2\CCM\2016-09-14_170442-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x2\IX3 Referral\2016-08-22_123928-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x1\Order Management\OM-v2.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x2\Theatre Management\2016-08-22-TM.cuts
+	
+2016-09-20 14:05:59 ERROR  - 
+	***************************************************
+	Error copying files
+	***************************************************
+	E:\Resources\LogCollector\R8.1.1 07\x2\IX3 Referral\2016-08-22_130534-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x2\Unit Overview\2016-08-22_095646-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x1\CCM\CUTS_2016-09-14.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x2\Order Management\OM-cuts3.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x1\Psychiatry\CUTS_19092016_110100.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x2\IX3 Referral\2016-08-22_134932-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x1\Order Management\2016-09-12_155502-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x1\Unit Overview\Emergency12092016.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x2\Resource Planing\RP.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x2\Care Documentation\CUTS20160823.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x1\CCP\CUTS_20160913(1).cuts
+	E:\Resources\LogCollector\R8.1.1 07\x2\CCM\2016-08-22_102941-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x1\Connection Overview\CUTS_19092016_112112.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x1\Messenger\Messenger01.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x2\Order Management\2016-09-19_130822-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x2\Care Documentation\CUTS2016822.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x1\CCP\CUTS_20160914.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x1\Psychiatry\CUTS_19092016_153629.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x2\Unit Overview\cached-recording.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x1\Care Documentation\2016-09-15-CD.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x2\Unit Overview\2016-08-22_170720-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x2\IX3 Referral\2016-08-22_142112-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x2\Order Management\OM-Cuts2.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x1\IX3 Referral\CUTS_20192016_080241.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x1\Connection Overview\CUTS_19092016_110100.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x2\Birth\Birth.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x1\Care Link\2016-09-13_141038-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x2\Care Administration\CACUTS23-08.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x2\CCM\2016-09-14_105401-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x1\Messenger\Messenger02.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x2\Medical Record Table\220816_1716.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x1\Psychiatry\CUTS_19092016_112112.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x1\Attention Signal\att2-v2.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x2\IX3 Referral\2016-08-22_100202-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x1\Psychiatry\CUTS_19092016_155038.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x2\Care Documentation\CUTS2016822(2).cuts
+	E:\Resources\LogCollector\R8.1.1 07\x2\IX3 Referral\2016-08-22_153456-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x2\Psychiatry\2016-08-23_092414-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x2\Psychiatry\2016-08-23_085645-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x1\Attention Signal\att-v2.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x1\Attention Signal\att3-v2.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x1\Order Management\2016-09-14_151125-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x1\Resource Planing\2016-09-08_143238-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x1\Care Link\2016-09-12_163201-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x1\Theatre Management\2016-09-15.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x2\Psychiatry\2016-08-23_075846-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x1\Birth\CUTS_14092016.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x2\Care Documentation\CUTS2016822(1).cuts
+	E:\Resources\LogCollector\R8.1.1 07\x2\Attention Signal\2016-08-22_102941-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x2\Care Administration\CACUTS22-08.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x1\Order Management\2016-09-13_141038-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x2\Messenger\2016-08-23_083814-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x2\Order Management\2016-09-19_171609-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x2\Psychiatry\2016-08-22_153456-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x2\CDE\cuts-framework.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x1\IX3 Referral\CUTS_19092016.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x2\Care Documentation\CUTS2016822(3).cuts
+	E:\Resources\LogCollector\R8.1.1 07\x1\IX3 Referral\Cuts_Referral_Pulasthi_1409.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x1\CCP\CUTS_20160913.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x2\IX3 Overviews\2016-08-22.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x1\Order Management\2016-09-15_082901-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x1\CCM\CCM1.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x1\Theatre Management\CUTS_2016-09-14.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x2\IX3 Referral\2016-08-22_141009-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x1\Attention Signal\AS1.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x1\Care Documentation\CD.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x2\Psychiatry\2016-08-22_142112-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x2\Order Management\OM-cuts4.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x2\Order Management\OM-cuts1.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x2\Theatre Management\2016-08-22_TM.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x2\CCM\2016-09-14_170442-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x2\IX3 Referral\2016-08-22_123928-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x1\Order Management\OM-v2.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x2\Theatre Management\2016-08-22-TM.cuts
+	
+2016-09-20 14:05:59 INFO   - Total Copied Files:- 74 Files
+2016-09-20 14:05:59 INFO   - Total Failled Files in Copying :- 74 Files
+2016-09-20 14:05:59 INFO   - Total Deleted Files:- 0 Files
+2016-09-20 14:05:59 INFO   - Total Failled Files in Deletion:- 0 Files
+2016-09-20 14:05:59 INFO   - Collecting log files task completed
+
+2016-09-20 14:06:13 INFO   - **************************Log Collector started****************************
+2016-09-20 14:06:14 INFO   - waitting for starting the task.....
+2016-09-20 14:06:14 INFO   - copying task started.....
+2016-09-20 14:06:49 INFO   - 
+	***************************************************
+	Files Copied
+	***************************************************
+	E:\Resources\LogCollector\R8.1.1 07\x2\IX3 Referral\2016-08-22_130534-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x2\Unit Overview\2016-08-22_095646-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x1\CCM\CUTS_2016-09-14.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x2\Order Management\OM-cuts3.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x1\Psychiatry\CUTS_19092016_110100.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x2\IX3 Referral\2016-08-22_134932-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x1\Order Management\2016-09-12_155502-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x1\Unit Overview\Emergency12092016.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x2\Resource Planing\RP.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x1\CCP\CUTS_20160913(1).cuts
+	E:\Resources\LogCollector\R8.1.1 07\x2\Care Documentation\CUTS20160823.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x2\CCM\2016-08-22_102941-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x1\Connection Overview\CUTS_19092016_112112.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x1\Messenger\Messenger01.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x2\Order Management\2016-09-19_130822-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x1\CCP\CUTS_20160914.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x1\Psychiatry\CUTS_19092016_153629.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x2\Care Documentation\CUTS2016822.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x2\Unit Overview\cached-recording.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x1\Care Documentation\2016-09-15-CD.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x2\Unit Overview\2016-08-22_170720-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x2\IX3 Referral\2016-08-22_142112-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x2\Order Management\OM-Cuts2.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x1\IX3 Referral\CUTS_20192016_080241.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x1\Connection Overview\CUTS_19092016_110100.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x1\Care Link\2016-09-13_141038-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x2\Birth\Birth.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x1\Messenger\Messenger02.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x2\Care Administration\CACUTS23-08.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x2\CCM\2016-09-14_105401-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x2\Medical Record Table\220816_1716.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x1\Psychiatry\CUTS_19092016_112112.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x1\Attention Signal\att2-v2.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x1\Psychiatry\CUTS_19092016_155038.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x2\IX3 Referral\2016-08-22_100202-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x2\Care Documentation\CUTS2016822(2).cuts
+	E:\Resources\LogCollector\R8.1.1 07\x2\IX3 Referral\2016-08-22_153456-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x2\Psychiatry\2016-08-23_092414-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x2\Psychiatry\2016-08-23_085645-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x1\Attention Signal\att-v2.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x1\Attention Signal\att3-v2.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x1\Order Management\2016-09-14_151125-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x1\Resource Planing\2016-09-08_143238-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x1\Care Link\2016-09-12_163201-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x1\Theatre Management\2016-09-15.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x2\Psychiatry\2016-08-23_075846-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x1\Birth\CUTS_14092016.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x2\Care Documentation\CUTS2016822(1).cuts
+	E:\Resources\LogCollector\R8.1.1 07\x1\Order Management\2016-09-13_141038-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x2\Attention Signal\2016-08-22_102941-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x2\Care Administration\CACUTS22-08.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x2\Messenger\2016-08-23_083814-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x2\Order Management\2016-09-19_171609-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x2\Psychiatry\2016-08-22_153456-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x2\CDE\cuts-framework.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x1\IX3 Referral\CUTS_19092016.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x2\Care Documentation\CUTS2016822(3).cuts
+	E:\Resources\LogCollector\R8.1.1 07\x1\IX3 Referral\Cuts_Referral_Pulasthi_1409.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x1\CCP\CUTS_20160913.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x2\IX3 Overviews\2016-08-22.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x1\Order Management\2016-09-15_082901-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x1\CCM\CCM1.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x1\Theatre Management\CUTS_2016-09-14.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x2\IX3 Referral\2016-08-22_141009-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x1\Attention Signal\AS1.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x1\Care Documentation\CD.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x2\Psychiatry\2016-08-22_142112-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x2\Order Management\OM-cuts4.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x2\Order Management\OM-cuts1.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x2\Theatre Management\2016-08-22_TM.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x1\Order Management\OM-v2.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x2\CCM\2016-09-14_170442-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x2\IX3 Referral\2016-08-22_123928-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\x2\Theatre Management\2016-08-22-TM.cuts
+	
+2016-09-20 14:06:49 INFO   - Total Copied Files:- 74 Files
+2016-09-20 14:06:49 INFO   - Total Failled Files in Copying :- 0 Files
+2016-09-20 14:06:49 INFO   - Total Deleted Files:- 0 Files
+2016-09-20 14:06:49 INFO   - Total Failled Files in Deletion:- 0 Files
+2016-09-20 14:06:49 INFO   - Collecting log files task completed
+
+2016-09-20 14:07:25 INFO   - **************************Log Collector started****************************
+2016-09-20 14:07:25 INFO   - waitting for starting the task.....
+2016-09-20 14:07:25 INFO   - copying task started.....
+2016-09-20 14:07:26 INFO   - 
+	***************************************************
+	Files Copied
+	***************************************************
+	E:\Resources\LogCollector\R8.1.1 07\2016-08-19 - [R8.1.1 07] Selective Regression I\CCM\2016-09-14_105401-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\Psychiatry\CUTS_19092016_153629.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-08-19 - [R8.1.1 07] Selective Regression I\Care Documentation\CUTS2016822.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-08-19 - [R8.1.1 07] Selective Regression I\Care Documentation\CUTS2016822(3).cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-08-19 - [R8.1.1 07] Selective Regression I\IX3 Overviews\2016-08-22.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-08-19 - [R8.1.1 07] Selective Regression I\CCM\2016-08-22_102941-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-08-19 - [R8.1.1 07] Selective Regression I\Order Management\OM-cuts1.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\Messenger\Messenger01.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-08-19 - [R8.1.1 07] Selective Regression I\Medical Record Table\220816_1716.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\Psychiatry\CUTS_19092016_110100.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\Unit Overview\Emergency12092016.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\Order Management\OM-v2.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-08-19 - [R8.1.1 07] Selective Regression I\Care Administration\CACUTS23-08.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\CCM\CUTS_2016-09-14.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\Theatre Management\CUTS_2016-09-14.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\Care Documentation\2016-09-15-CD.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-08-19 - [R8.1.1 07] Selective Regression I\Messenger\2016-08-23_083814-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-08-19 - [R8.1.1 07] Selective Regression I\Order Management\OM-cuts3.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-08-19 - [R8.1.1 07] Selective Regression I\Psychiatry\2016-08-23_075846-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\CCP\CUTS_20160914.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\Resource Planing\2016-09-08_143238-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-08-19 - [R8.1.1 07] Selective Regression I\Care Administration\CACUTS22-08.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\CCP\CUTS_20160913(1).cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-08-19 - [R8.1.1 07] Selective Regression I\CCM\2016-09-14_170442-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\IX3 Referral\Cuts_Referral_Pulasthi_1409.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-08-19 - [R8.1.1 07] Selective Regression I\IX3 Referral\2016-08-22_153456-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-08-19 - [R8.1.1 07] Selective Regression I\Care Documentation\CUTS20160823.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-08-19 - [R8.1.1 07] Selective Regression I\IX3 Referral\2016-08-22_100202-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-08-19 - [R8.1.1 07] Selective Regression I\Psychiatry\2016-08-22_153456-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\Order Management\2016-09-15_082901-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-08-19 - [R8.1.1 07] Selective Regression I\Psychiatry\2016-08-23_092414-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-08-19 - [R8.1.1 07] Selective Regression I\Theatre Management\2016-08-22-TM.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-08-19 - [R8.1.1 07] Selective Regression I\Unit Overview\cached-recording.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-08-19 - [R8.1.1 07] Selective Regression I\IX3 Referral\2016-08-22_134932-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-08-19 - [R8.1.1 07] Selective Regression I\Psychiatry\2016-08-22_142112-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-08-19 - [R8.1.1 07] Selective Regression I\IX3 Referral\2016-08-22_130534-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\Care Documentation\CD.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\Order Management\2016-09-13_141038-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\Attention Signal\att3-v2.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-08-19 - [R8.1.1 07] Selective Regression I\Theatre Management\2016-08-22_TM.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\Attention Signal\AS1.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\IX3 Referral\CUTS_20192016_080241.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-08-19 - [R8.1.1 07] Selective Regression I\Order Management\OM-Cuts2.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\Birth\CUTS_14092016.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-08-19 - [R8.1.1 07] Selective Regression I\Unit Overview\2016-08-22_170720-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\Theatre Management\2016-09-15.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-08-19 - [R8.1.1 07] Selective Regression I\Psychiatry\2016-08-23_085645-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\Care Link\2016-09-12_163201-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\CCM\CCM1.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\Connection Overview\CUTS_19092016_112112.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-08-19 - [R8.1.1 07] Selective Regression I\Order Management\2016-09-19_130822-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-08-19 - [R8.1.1 07] Selective Regression I\Order Management\OM-cuts4.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-08-19 - [R8.1.1 07] Selective Regression I\IX3 Referral\2016-08-22_142112-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-08-19 - [R8.1.1 07] Selective Regression I\Care Documentation\CUTS2016822(2).cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\Order Management\2016-09-12_155502-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\Care Link\2016-09-13_141038-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\Attention Signal\att2-v2.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\Order Management\2016-09-14_151125-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\IX3 Referral\CUTS_19092016.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\Messenger\Messenger02.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-08-19 - [R8.1.1 07] Selective Regression I\Resource Planing\RP.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-08-19 - [R8.1.1 07] Selective Regression I\Order Management\2016-09-19_171609-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-08-19 - [R8.1.1 07] Selective Regression I\Unit Overview\2016-08-22_095646-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-08-19 - [R8.1.1 07] Selective Regression I\Attention Signal\2016-08-22_102941-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\Attention Signal\att-v2.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-08-19 - [R8.1.1 07] Selective Regression I\IX3 Referral\2016-08-22_123928-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-08-19 - [R8.1.1 07] Selective Regression I\Birth\Birth.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-08-19 - [R8.1.1 07] Selective Regression I\Care Documentation\CUTS2016822(1).cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\CCP\CUTS_20160913.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-08-19 - [R8.1.1 07] Selective Regression I\IX3 Referral\2016-08-22_141009-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-08-19 - [R8.1.1 07] Selective Regression I\CDE\cuts-framework.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\Psychiatry\CUTS_19092016_112112.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\Psychiatry\CUTS_19092016_155038.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\Connection Overview\CUTS_19092016_110100.cuts
+	
+2016-09-20 14:07:26 INFO   - Total Copied Files:- 74 Files
+2016-09-20 14:07:26 INFO   - Total Failled Files in Copying :- 0 Files
+2016-09-20 14:07:26 INFO   - Total Deleted Files:- 0 Files
+2016-09-20 14:07:26 INFO   - Total Failled Files in Deletion:- 0 Files
+2016-09-20 14:07:26 INFO   - Collecting log files task completed
+
+2016-09-20 14:07:51 INFO   - **************************Log Collector started****************************
+2016-09-20 14:07:51 INFO   - waitting for starting the task.....
+2016-09-20 14:07:51 INFO   - copying task started.....
+2016-09-20 14:07:51 INFO   - Total Copied Files:- 0 Files
+2016-09-20 14:07:51 INFO   - Total Failled Files in Copying :- 0 Files
+2016-09-20 14:07:51 INFO   - Total Deleted Files:- 0 Files
+2016-09-20 14:07:51 INFO   - Total Failled Files in Deletion:- 0 Files
+2016-09-20 14:07:51 INFO   - Collecting log files task completed
+
+2016-09-20 14:08:09 INFO   - **************************Log Collector started****************************
+2016-09-20 14:08:09 INFO   - waitting for starting the task.....
+2016-09-20 14:08:09 INFO   - copying task started.....
+2016-09-20 14:08:11 INFO   - 
+	***************************************************
+	Files Copied
+	***************************************************
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\Attention Signal\cuts\att3-v2.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\Attention Signal\cuts\AS1.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\Attention Signal\cuts\att2-v2.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\Attention Signal\cuts\att-v2.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\Attention Signal\cuts\heapdump-1473670882951.hprof
+	
+2016-09-20 14:08:11 INFO   - Total Copied Files:- 5 Files
+2016-09-20 14:08:11 INFO   - Total Failled Files in Copying :- 0 Files
+2016-09-20 14:08:11 INFO   - Total Deleted Files:- 0 Files
+2016-09-20 14:08:11 INFO   - Total Failled Files in Deletion:- 0 Files
+2016-09-20 14:08:11 INFO   - Collecting log files task completed
+
+2016-09-21 14:59:48 INFO   - **************************Log Collector started****************************
+2016-09-21 14:59:48 INFO   - waitting for starting the task.....
+2016-09-21 14:59:48 INFO   - copying task started.....
+2016-09-21 14:59:48 INFO   - 
+	***************************************************
+	Files Copied
+	***************************************************
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\Attention Signal\cuts\att3-v2.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\Attention Signal\cuts\AS1.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\Attention Signal\cuts\att2-v2.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\Attention Signal\cuts\att-v2.cuts
+	
+2016-09-21 14:59:48 INFO   - Total Copied Files:- 4 Files
+2016-09-21 14:59:48 INFO   - Total Failled Files in Copying :- 0 Files
+2016-09-21 14:59:48 INFO   - Total Deleted Files:- 0 Files
+2016-09-21 14:59:48 INFO   - Total Failled Files in Deletion:- 0 Files
+2016-09-21 14:59:48 INFO   - Collecting log files task completed
+
+2016-09-21 15:02:00 INFO   - **************************Log Collector started****************************
+2016-09-21 15:02:00 INFO   - waitting for starting the task.....
+2016-09-21 15:02:00 INFO   - copying task started.....
+2016-09-21 15:02:04 INFO   - 
+	***************************************************
+	Files Copied
+	***************************************************
+	E:\Resources\LogCollector\R8.1.1 07\2016-08-19 - [R8.1.1 07] Selective Regression I\CCM\2016-09-14_105401-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\Psychiatry\CUTS_19092016_153629.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-08-19 - [R8.1.1 07] Selective Regression I\Care Documentation\CUTS2016822.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\Attention Signal\cuts\AS1.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-08-19 - [R8.1.1 07] Selective Regression I\Care Documentation\CUTS2016822(3).cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-08-19 - [R8.1.1 07] Selective Regression I\IX3 Overviews\2016-08-22.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-08-19 - [R8.1.1 07] Selective Regression I\CCM\2016-08-22_102941-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-08-19 - [R8.1.1 07] Selective Regression I\Order Management\OM-cuts1.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\Messenger\Messenger01.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\Psychiatry\CUTS_19092016_110100.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-08-19 - [R8.1.1 07] Selective Regression I\Medical Record Table\220816_1716.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\Unit Overview\Emergency12092016.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\Order Management\OM-v2.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\CCM\CUTS_2016-09-14.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-08-19 - [R8.1.1 07] Selective Regression I\Care Administration\CACUTS23-08.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\Theatre Management\CUTS_2016-09-14.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\Care Documentation\2016-09-15-CD.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-08-19 - [R8.1.1 07] Selective Regression I\Messenger\2016-08-23_083814-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-08-19 - [R8.1.1 07] Selective Regression I\Order Management\OM-cuts3.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-08-19 - [R8.1.1 07] Selective Regression I\Psychiatry\2016-08-23_075846-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\CCP\CUTS_20160914.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\Resource Planing\2016-09-08_143238-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-08-19 - [R8.1.1 07] Selective Regression I\Care Administration\CACUTS22-08.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\Attention Signal\cuts\att2-v2.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\CCP\CUTS_20160913(1).cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-08-19 - [R8.1.1 07] Selective Regression I\CCM\2016-09-14_170442-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\IX3 Referral\Cuts_Referral_Pulasthi_1409.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-08-19 - [R8.1.1 07] Selective Regression I\IX3 Referral\2016-08-22_153456-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-08-19 - [R8.1.1 07] Selective Regression I\Care Documentation\CUTS20160823.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-08-19 - [R8.1.1 07] Selective Regression I\IX3 Referral\2016-08-22_100202-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-08-19 - [R8.1.1 07] Selective Regression I\Psychiatry\2016-08-22_153456-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\Order Management\2016-09-15_082901-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-08-19 - [R8.1.1 07] Selective Regression I\Psychiatry\2016-08-23_092414-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-08-19 - [R8.1.1 07] Selective Regression I\Theatre Management\2016-08-22-TM.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-08-19 - [R8.1.1 07] Selective Regression I\Unit Overview\cached-recording.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-08-19 - [R8.1.1 07] Selective Regression I\IX3 Referral\2016-08-22_134932-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-08-19 - [R8.1.1 07] Selective Regression I\Psychiatry\2016-08-22_142112-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-08-19 - [R8.1.1 07] Selective Regression I\IX3 Referral\2016-08-22_130534-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\Care Documentation\CD.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\Order Management\2016-09-13_141038-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-08-19 - [R8.1.1 07] Selective Regression I\Theatre Management\2016-08-22_TM.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\IX3 Referral\CUTS_20192016_080241.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-08-19 - [R8.1.1 07] Selective Regression I\Order Management\OM-Cuts2.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\Birth\CUTS_14092016.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-08-19 - [R8.1.1 07] Selective Regression I\Unit Overview\2016-08-22_170720-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\Theatre Management\2016-09-15.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-08-19 - [R8.1.1 07] Selective Regression I\Psychiatry\2016-08-23_085645-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\Care Link\2016-09-12_163201-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\CCM\CCM1.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\Connection Overview\CUTS_19092016_112112.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-08-19 - [R8.1.1 07] Selective Regression I\Order Management\2016-09-19_130822-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-08-19 - [R8.1.1 07] Selective Regression I\Order Management\OM-cuts4.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-08-19 - [R8.1.1 07] Selective Regression I\IX3 Referral\2016-08-22_142112-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-08-19 - [R8.1.1 07] Selective Regression I\Care Documentation\CUTS2016822(2).cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\Attention Signal\cuts\att3-v2.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\Order Management\2016-09-12_155502-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\Care Link\2016-09-13_141038-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\Order Management\2016-09-14_151125-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\IX3 Referral\CUTS_19092016.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\Messenger\Messenger02.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-08-19 - [R8.1.1 07] Selective Regression I\Resource Planing\RP.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-08-19 - [R8.1.1 07] Selective Regression I\Order Management\2016-09-19_171609-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-08-19 - [R8.1.1 07] Selective Regression I\Unit Overview\2016-08-22_095646-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-08-19 - [R8.1.1 07] Selective Regression I\Attention Signal\2016-08-22_102941-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-08-19 - [R8.1.1 07] Selective Regression I\IX3 Referral\2016-08-22_123928-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\Attention Signal\cuts\att-v2.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-08-19 - [R8.1.1 07] Selective Regression I\Birth\Birth.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\CCP\CUTS_20160913.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-08-19 - [R8.1.1 07] Selective Regression I\Care Documentation\CUTS2016822(1).cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-08-19 - [R8.1.1 07] Selective Regression I\IX3 Referral\2016-08-22_141009-All.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-08-19 - [R8.1.1 07] Selective Regression I\CDE\cuts-framework.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\Psychiatry\CUTS_19092016_112112.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\Psychiatry\CUTS_19092016_155038.cuts
+	E:\Resources\LogCollector\R8.1.1 07\2016-09-08 - R8.1.1 07 V1-V2\Connection Overview\CUTS_19092016_110100.cuts
+	
+2016-09-21 15:02:04 INFO   - Total Copied Files:- 74 Files
+2016-09-21 15:02:04 INFO   - Total Failled Files in Copying :- 0 Files
+2016-09-21 15:02:04 INFO   - Total Deleted Files:- 0 Files
+2016-09-21 15:02:04 INFO   - Total Failled Files in Deletion:- 0 Files
+2016-09-21 15:02:04 INFO   - Collecting log files task completed
+
